@@ -1,0 +1,18 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Logout should render without crashing 1`] = `
+<div
+  className="logout"
+  onClick={[Function]}
+>
+  <Component />
+  <div
+    className="logoutText"
+  >
+    <FormattedMessage
+      id="sidebarLogout"
+      values={Object {}}
+    />
+  </div>
+</div>
+`;

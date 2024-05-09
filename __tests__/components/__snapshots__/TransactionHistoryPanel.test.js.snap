@@ -1,0 +1,17 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`TransactionHistoryPanel renders without crashing 1`] = `
+<Connect(withData(Connect(withData(withProps(Connect(withActions(Connect(withActions(Connect(withCall(Connect(withData(Connect(withProgress(withProps(Connect(withData(TransactionHistory))))))))))))))))))
+  dispatch={[Function]}
+  store={
+    Object {
+      "clearActions": [Function],
+      "dispatch": [Function],
+      "getActions": [Function],
+      "getState": [Function],
+      "replaceReducer": [Function],
+      "subscribe": [Function],
+    }
+  }
+/>
+`;

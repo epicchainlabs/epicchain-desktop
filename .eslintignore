@@ -1,0 +1,4 @@
+app/flow-typed/*
+app/translations/*
+dist/*
+__tests__/*
